@@ -30,20 +30,10 @@ Hey there! I'm **Swastik**, a 19-year-old tech enthusiast from **SRMIST**. I’m
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-
-
 ---
 
-███████╗██╗ ██╗ █████╗ ████████╗██╗ ██████╗ ██╗
-██╔════╝██║ ██║██╔══██╗╚══██╔══╝██║██╔═══██╗██║
-█████╗ ██║ █╗ ██║███████║ ██║ ██║██║ ██║██║
-██╔══╝ ██║███╗██║██╔══██║ ██║ ██║██║ ██║██║
-███████╗╚███╔███╔╝██║ ██║ ██║ ██║╚██████╔╝███████╗ ╚══════╝ ╚══╝╚══╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚══════╝
-
-
 ## 📫 Let’s Connect!  
-- **GitHub:** [github.com/yourusername](https://github.com/)  
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/)  
-- **Portfolio (Coming Soon!)**  
+- **LinkedIn:** [Swastik Pandey](https://www.linkedin.com/in/swastik-pandey-70a205299/)  
+- **Email:** [swastik3370@gmail.com](mailto:swastik3370@gmail.com)  
 
 👀 Always up for collabs & discussions! Let’s build something cool together. 🚀  
