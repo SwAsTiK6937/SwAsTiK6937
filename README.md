@@ -27,6 +27,13 @@ Hey there! I'm **Swastik**, a 19-year-old tech enthusiast from **SRMIST**. I’m
 - Diving deeper into **Game AI and Unreal Engine** for advanced NPC behavior.  
 
 ---
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+
+
+---
+
 
 ## 📫 Let’s Connect!  
 - **GitHub:** [github.com/yourusername](https://github.com/)  
