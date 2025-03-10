@@ -1,39 +1,49 @@
-# 🛠️ Swastik Pandey | AI & Game Dev Enthusiast  
-
-Hey there! I'm **Swastik**, a 19-year-old tech enthusiast from **SRMIST**. I’m passionate about **AI, ML, Game Development, and Web Tech**. Currently working on some cool projects that blend **AI with IoT, Unreal Engine, and Full-Stack Dev**.  
-
----
-
-## 🚀 What I’m Building  
-- **AI-Powered IoT Health & Fitness Website** 🏋️  
-  → Uses **ML, IoT sensors, and MySQL** for real-time health tracking.  
-- **Smart Attendance System** 🎓  
-  → A project combining **AI, DBMS, and IoT** for automated attendance.  
-- **AI NPC for Unreal Engine 5** 🎮  
-  → Advanced AI characters that **learn and adapt** to player actions.  
+<h1 align="center">🚀 Swastik Pandey | AI & Game Dev Enthusiast</h1>
+<p align="center">
+🎮 Passionate about <strong>Game Development, AI/ML, and Web Development</strong>! <br>
+📍 BTech Student @ <strong>SRMIST, Chennai</strong> | <strong>Aspiring to Study in Japan</strong>
+</p>
 
 ---
 
-## 🏆 Skills & Tech Stack  
-- **Languages:** Python, Java, C, C++, JavaScript  
-- **Frameworks & Tools:** TensorFlow, PyTorch, Bootstrap, Unreal Engine 5  
-- **Databases:** MySQL, PostgreSQL  
-- **Other:** Git, Linux, Docker  
+### 🌐 Connect with Me:
+<p align="center">
+<a href="https://www.instagram.com/auburn_porcupine0/?next=%2F"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/swastik-pandey-70a205299/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:swastik3370@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 📌 What’s Next?  
-- Learning **Japanese** 🇯🇵 (Planning to study in Japan post-BTech!)  
-- Diving deeper into **Game AI and Unreal Engine** for advanced NPC behavior.  
+### 💻 Tech Stack:
+<p align="center">
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/UnrealEngine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 ---
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=swastik-pandey&show_icons=true&theme=dark&hide=prs,issues">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-pandey&layout=compact&theme=dark">
+</p>
 
 ---
 
-## 📫 Let’s Connect!  
-- **LinkedIn:** [Swastik Pandey](https://www.linkedin.com/in/swastik-pandey-70a205299/)  
-- **Email:** [swastik3370@gmail.com](mailto:swastik3370@gmail.com)  
+### 🔥 Most Used Languages:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-pandey&theme=dark&layout=compact">
+</p>
 
-👀 Always up for collabs & discussions! Let’s build something cool together. 🚀  
+---
+
+### 💡 Random Dev Quote:
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
