@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swastik-pandey&show_icons=true&theme=dark&hide=prs,issues">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-pandey&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=SwAsTiK6937&show_icons=true&theme=dark&hide=prs,issues">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwAsTiK6937&layout=compact&theme=dark">
 </p>
 
 ---
