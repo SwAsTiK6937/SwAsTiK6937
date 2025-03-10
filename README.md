@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Swastik Pandey | AI & Game Dev Enthusiast</h1>
 <p align="center">
 🎮 Passionate about <strong>Game Development, AI/ML, and Web Development</strong>! <br>
-📍 BTech Student @ <strong>SRMIST, Chennai</strong> | <strong>Aspiring to Work with fellow Game Devs in FROMSoftware/strong>
+📍 BTech Student @ <strong>SRMIST, Chennai</strong> | <strong>Aspiring to Work with fellow Game Devs in FROMSoftware<strong>
 </p>
 
 ---
