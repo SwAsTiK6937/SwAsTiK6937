@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Swastik Pandey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Game+Developer;Unreal+Engine+Explorer;Building+Intelligent+Systems;Future+Game+Dev+in+Japan&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Game+Developer;Unreal+Engine+Explorer;Building+Intelligent+Systems;Future+Game+Dev&center=true&width=600&height=50">
 </p>
 
 <h3 align="center">⚡ AI Explorer • Game Developer • System Builder ⚡</h3>
