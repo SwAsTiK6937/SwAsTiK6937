@@ -18,10 +18,9 @@
 Player Name   : Swastik Pandey
 Class         : AI Engineer / Game Developer
 Guild         : SRM Institute of Science & Technology
-Spawn Point   : Chennai, India
+Spawn Point   : Delhi, India
 Main Engine   : Unreal Engine 5
 Current Quest : Building AI-driven systems & immersive games
-Ultimate Goal : Work in game development in Japan
 ```
 
 ---
@@ -137,15 +136,15 @@ Narrative driven horror game built in Unreal Engine focusing on atmosphere, AI b
 
 <p align="center">
 
-<a href="YOUR_INSTAGRAM">
+<a href="(https://www.instagram.com/sw4stik__/?next=%2F)">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="(https://www.linkedin.com/in/swastik-pandey-70a205299/)">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:swastik3370@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
